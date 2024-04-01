@@ -7,9 +7,6 @@ environments: Web
 status: Draft
 feedback link: https://github.com/julian27m/julian27m.github.io
 
-* **Recursos compartidos:** La MV es un recurso compartido entre los estudiantes del curso, lo que significa que todos los participantes tienen acceso a ella. Es fundamental respetar las normas establecidas para garantizar un uso equitativo y eficiente del recurso.
-* **Reserva anticipada:** Para evitar conflictos de acceso y garantizar que todos los estudiantes tengan la oportunidad de utilizar la MV, es obligatorio reservar un tiempo de uso con anticipación. Los estudiantes deben utilizar el sistema de reserva en línea proporcionado por el curso para programar sus sesiones de trabajo en la MV. Cada estudiante tiene asignado un límite de tiempo semanal para su uso, y es importante respetar este límite para permitir que otros puedan acceder al recurso.
-* **Almacenamiento limitado:** Se asigna un espacio de almacenamiento máximo de 5GB a cada estudiante en la MV. Esto incluye el tamaño total de los archivos y carpetas dentro del directorio personal de cada usuario. Es importante administrar cuidadosamente el espacio de almacenamiento para evitar exceder esta cuota y garantizar que todos los estudiantes tengan acceso a suficiente espacio para sus proyectos y archivos relacionados con el curso.
 
 # Instalación del software necesario
 
