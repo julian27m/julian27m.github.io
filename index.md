@@ -1,3 +1,13 @@
+author: Julián Mora
+summary: Instalación Software para el curso
+id: codelab-vivi-001
+tags:
+categories: Codelabs, Software
+environments: Web
+status: Draft
+feedback link: https://github.com/julian27m/julian27m.github.io 
+
+
 # Instalación del software necesario
 
 ## 0. Resumen
@@ -239,3 +249,114 @@ Siga los pasos a continuación para importar esta herramienta desde el manejador
 ¡Enhorabuena! Con estos pasos completados, ya tendrá todas las configuraciones necesarias dentro de Unity para desarrollar aplicaciones de realidad virtual.
 En el siguiente módulo enseñaremos un ejemplo básico sobre cómo realizar pruebas de interacción.
 
+
+
+author: Julián Mora
+summary: Configuración máquina virtual para el curso
+id: codelab-vivi-002
+tags:
+categories: Codelabs, Software
+environments: Web
+status: Draft
+feedback link: https://github.com/julian27m/julian27m.github.io 
+
+
+
+# Configuración de la máquina virtual
+
+## 0. Resumen
+
+Duration: 0:05:00
+
+![image_caption](img/ViviBannerDesarrolloVR.png)
+
+¡Bienvenido al curso Desarrollo de Aplicaciones de Realidad Virtual para todos!
+
+En primer lugar, deseamos expresarte nuestro agradecimiento por haber adquirido el certificado de este curso, lo cual te otorga acceso privilegiado a una máquina virtual proporcionada por la Universidad de Los Andes. En esta guía, te acompañaremos en el proceso de configuración y acceso a este recurso, utilizando las credenciales que te han sido asignadas. A lo largo de estas instrucciones, te mostraremos cómo conectar tu máquina personal a la virtual, reservarla de manera adecuada y configurar tu propio espacio de trabajo dentro de ella.
+
+Las credenciales de acceso que te han sido otorgadas son temporales y exclusivas para acceder a la Máquina Virtual. Son proporcionadas por motivos de seguridad y no pueden ser utilizadas para ningún otro servicio o recurso de la Universidad de Los Andes. Ten en cuenta que estas credenciales tendrán una vigencia de 3 meses.
+
+Es importante destacar que el acceso a la máquina virtual es limitado y compartido entre todos los estudiantes. Por lo tanto, es necesario reservar tu espacio con anticipación y respetar los horarios asignados.
+
+Esperamos que esta guía te sea de gran utilidad y facilite tu experiencia en el curso. No dudes en contactarnos si surge alguna pregunta o necesitas asistencia adicional durante el proceso. ¡Estamos aquí para ayudarte y deseamos que disfrutes al máximo de tu aprendizaje en este emocionante viaje hacia el desarrollo de aplicaciones de realidad virtual para todos!
+
+
+> aside positive
+> Si desea tener acceso a la máquina virtual puede obtener más información sobre este recurso y el certificado del curso en el siguiente [enlace](https://www.ejemplo.com).
+
+
+
+
+## 1. Acceso a la máquina desde Windows
+
+Duration: 0:05:00
+
+Unity es una poderosa plataforma de desarrollo de juegos y aplicaciones en 3D y 2D, ampliamente utilizada en la industria de los videojuegos, la simulación, la arquitectura y la realidad virtual, entre otros campos. Con Unity, los desarrolladores pueden crear experiencias interactivas y envolventes para una variedad de plataformas, incluidas PC, consolas, dispositivos móviles y realidad virtual.
+
+Para instalar Unity, utilizaremos Unity Hub, que es un administrador de versiones y proyectos de Unity. Unity Hub nos permite administrar múltiples versiones de Unity, así como crear y abrir proyectos de manera fácil y conveniente. Dentro de Unity Hub, podemos instalar diferentes versiones de Unity Editor.
+
+### Instalar Unity Hub
+
+1. Puede instalar Unity Hub ingresando en la siguiente [página](https://unity.com/es/download). 
+En este lugar podrá seleccionar y descargar la versión adecuada para su sistema operativo.
+
+    ![image_caption](img/DescargaUnity.png)
+
+
+## 2. Acceso a la máquina desde MAC
+
+Duration: 0:30:00
+
+Felicitaciones, ha instalado correctamente Unity Hub. Sin embargo, dentro de esta aplicación podemos instalar varias versiones del editor de Unity. El editor de Unity es la interfaz de usuario principal de Unity, donde los desarrolladores trabajan en sus proyectos. Es donde se realizan la mayor parte del diseño, desarrollo y pruebas de los juegos y aplicaciones.
+
+La razón por la que hay más de una versión del editor de Unity se debe a que Unity Technologies, la empresa detrás de Unity, publica actualizaciones periódicas con nuevas características, mejoras de rendimiento, correcciones de errores y optimizaciones. Estas versiones pueden variar en términos de funcionalidad, estabilidad y precio, para satisfacer las necesidades de diferentes tipos de desarrolladores y proyectos.
+
+Trabajar con una misma versión del editor de Unity es muy importante al desarrollar proyectos colaborativos, pues así todos los involucrados están en la misma página. Por esta razón, en este curso solo vamos a utilizar la versión **2021.3.16** del editor de Unity.
+
+Para asegurarse de instalar la versión correcta siga estos pasos:
+1. Al finalizar módulo anterior, debió quedar con una pantalla similar a la siguiente dentro de Unity Hub:
+
+    ![image_caption](img/InstallUnityEditor.png)
+
+
+
+## 3. Configuración ambiente de trabajo
+
+Duration: 0:05:00
+
+La máquina virtual (MV) ya cuenta con todo el software necesario instalado para desarrollar el curso. Todos los participantes del curso van a tener acceso a la cuenta **estudiante** dentro del sistema de la MV. Cada participante debe crear un directorio dentro del escritorio en el cuál va a manejar sus propios documentos. Entre ellos se encuentran, proyectos de Unity, recursos como modelos 3D, imagenes, archivos de audio, archivos de texto.
+
+1. Diríjase a la pestaña **Projects** y seleccione el botón azul con la etiqueta **New Project**.
+
+    ![image_caption](img/UnityProjects.png)
+
+2. Dentro de la pestaña **All templates**, seleccione la opción **3D Core**. A la derecha de su ventana podrá ver una descripción del proyecto a crear, así como sus configuraciones iniciales. En la casilla **Project name** puede cambiar el nombre de su proyecto, es recomendable elegir un nombre creativo que haga alusión a este, por ejemplo **Primeros Pasos**. En la casilla **Location** seleccione la ruta donde desea alojar su proyecto. En caso de tener una máquina virtual asignada para el curso, debe ubicar y seleccionar su carpeta personal. Con respecto a las configuraciones de **Unity Cloud**, estas son opcionales y no son necesarias para el curso, por lo que las puede dejar en blanco. Estas son herramientas que permiten tener un mayor control de los proyectos a través de la nube de Unity y sistemas de control de versiones.
+
+
+    Finalmente, haga click en el botón azul con la etiqueta **Create Project**.
+
+    ![image_caption](img/Project3D.png)
+
+
+
+
+## 4. Aprovisionamiento de la máquina virtual
+
+Duration: 0:10:00
+
+Ahora que dispone de un proyecto 3D básico, es el momento de adaptarlo para desarrollar en Realidad Virtual para Meta Quest 1 y 2, utilizando OpenXR. Este estándar abierto y libre de regalías proporciona un acceso de alto rendimiento a las plataformas y dispositivos de Realidad Aumentada y Realidad Virtual.
+
+Siga los pasos a continuación para configurar OpenXR en su proyecto.
+1. En la parte superior izquierda de la ventana del editor, seleccione la pestaña **Edit** y **Project Settings**.
+
+    ![image_caption](img/ProjectSettings.png)
+
+2. En la ventana emergente, seleccione **XR Plugin Management** en la parte inferior izquierda. Luego, haga click en **Install XR Plugin Management**.
+
+    ![image_caption](img/XRPluginInstall.png)
+
+3. Ahora, seleccione **OpenXR** para instalar los paquetes necesarios. Al finalizar la instalación aparecerá una advertencia indicando que se debe reiniciar el editor para garantizar la compatibilidad entre este y los nuevos paquetes. Debe aceptar estos cambios dando click en **Yes**.
+
+    ![image_caption](img/OpenXRW.png)
+
+4. Después de que el editor de Unity haya recibido los cambios correctamente, podrá ver que hay un símbolo de advertencia al lado de OpenXR. Haga click encima de este y tome un momento para leer los mensajes. En la imagen a continuación podrá ver dos tipos de mensajes. Uno de ellos tiene un botón **Edit** a la derecha y el otro tiene un botón **Fix**. Generalmente, los mensajes que cuentan con el botón Fix son configuraciones que se pueden reparar con un simple click, por lo tanto, seleccione este botón para solucionar el problema. Por otro lado, el mensaje con el botón Edit indica que una o varias acciones deben ser realizadas, en este caso, añadir un perfil de interacción. Solucionaremos esta advertencia en el siguiente paso.
