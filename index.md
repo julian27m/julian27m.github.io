@@ -289,19 +289,19 @@ Para aprovechar al máximo los recursos proporcionados por la Máquina Virtual (
 
 4. Ir a opciones avanzadas y configuración.
 
-   ![image_caption](img/InstallUnityEditor.png)
+   ![image_caption](img/AdvancedSettings.png)
 
-5. Escribir en el nombre del servidor la siguiente ruta: winrrasv2.virtual.uniandes.edu.co.
+5. Seleccionar la opción **Usar esta configuración de servidor de puerta de Escritorio remoto**. Luego, es necesario escribir la siguiente ruta dentro de la casilla **Servidor** `winrrasv2.virtual.uniandes.edu.co`. Finalmente, guarda los cambios oprimiendo el botón de **Aceptar**.
 
-   ![image_caption](img/InstallUnityEditor.png)
+   ![image_caption](img/Gateway.png)
 
-6. Después de aceptar los cambios, oprimir el botón de conectar.
+6. Con todo listo, oprime el botón **Conectar**.
 
-   ![image_caption](img/InstallUnityEditor.png)
+   ![image_caption](img/Connect.png)
 
-7. Acceder con las credenciales Uniandes (sin el dominio @uniandes.edu.co).
+7. Ahora, debes ingresar las credenciales Uniandes que te fueron asignadas (sin el dominio @uniandes.edu.co).
 
-   ![image_caption](img/InstallUnityEditor.png)
+   ![image_caption](img/Credentials.png)
    
 8. Ingresar las credenciales de la MV asignada.
 
