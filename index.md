@@ -117,8 +117,7 @@ Para asegurarse de instalar la versión correcta siga estos pasos:
 
 ¡Felicidades! Al completar estos pasos el editor de Unity y todos sus complementos se han instalado satisfactoriamente. Es momento de continuar con el siguiente módulo.
 
-**GRACIAS POR LLEGAR HASTA ACÁ, SI MEDISTE EL TIEMPO QUE UTILIZASTE, POR FAVOR TOMA NOTA DE ESTE Y REINICIA EL CRONÓMETRO. 
-VUELVE A INICIAR EL TIEMPO PARA TENER UNA MEDIDA DE CUÁNTO TE DEMORAS EN REALIZAR EL RESTO DE LA GUÍA.**
+**GRACIAS POR LLEGAR HASTA ACÁ, SI MEDISTE EL TIEMPO QUE UTILIZASTE, POR FAVOR TOMA NOTA DE ESTE Y REINICIA EL CRONÓMETRO. VUELVE A INICIAR EL TIEMPO PARA TENER UNA MEDIDA DE CUÁNTO TE DEMORAS EN REALIZAR EL RESTO DE LA GUÍA.**
 
 ## 3. Crear un nuevo proyecto
 
@@ -218,3 +217,4 @@ Siga los pasos a continuación para importar esta herramienta desde el manejador
 En el siguiente módulo enseñaremos un ejemplo básico sobre cómo realizar pruebas de interacción.
 
 **GRACIAS POR TERMINAR LA GUÍA. POR FAVOR, ANOTA EL TIEMPO QUE TE DEMORASTE DESDE EL APARTADO 3 (CREAR UN PROYECTO 3D) HASTA ESTE PUNTO. COMPARTE EL TIEMPO UTILIZADO PARA AMBAS PARTES A TRAVÉS DE NUESTRO GRUPO DE WHATSAPP, POR FAVOR.**
+
